@@ -1,0 +1,18 @@
+{
+    "telemetry.machineId": "8765843b488b68e9207827c3d0f86a81bf1ec6a9ee5715f039ef3a8b18d0c09d",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "backupPath": "/var/www/html/sakthidashboard00/~/.vscode-root/Backups/1552919629880",
+            "uiState": {
+                "mode": 1,
+                "x": 171,
+                "y": 27,
+                "width": 1024,
+                "height": 741
+            }
+        }
+    }
+}
